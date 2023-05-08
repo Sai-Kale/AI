@@ -1,0 +1,2 @@
+# AI
+chatGPT and MidJourney
